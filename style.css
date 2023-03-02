@@ -1,0 +1,17 @@
+.container{
+    width: 600px;
+    margin: auto;
+}
+.container div:first-child{
+    padding: 10px 30px;
+    
+    
+ background-color: rgb(17, 0, 255);  
+ color: white;
+ font-weight: bold; 
+}
+img{
+    margin: 0px;
+    width: 193px;
+    height: 200px;
+}
